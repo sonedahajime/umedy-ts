@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sonedahajime/umedy-ts/issues"
   },
-  "homepage": "https://github.com/sonedahajime/umedy-ts#readme"
+  "homepage": "https://github.com/sonedahajime/umedy-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
 }
